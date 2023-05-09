@@ -196,7 +196,7 @@ section {
 }
 
 .about .image {
-  background: url("assets/img/my-picture.png") center center no-repeat;
+  background: url("../img/my-picture.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
   border-radius: 10px;
